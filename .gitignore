@@ -1,0 +1,20 @@
+# Daten
+data_raw/
+data_clean/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtuelle Umgebung
+venv/
+
+Definition des Abschlussprojektes im Rahmen der Weiterbildung zum Business Intelligence Specialist.docx
+
+*.pdf
+*.docx
+*.tmp
+~$*
